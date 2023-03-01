@@ -1,9 +1,9 @@
-# cms-youtube-backend
-backend for cms created for youtube.
+# CMS--Backend
+backend for CMS
 
-### go to config folder and create a file
+create a dotenv file in the root folder
 ```
-config.env
+.env
 ```
 
 ### and put these details
@@ -12,4 +12,4 @@ JWT_SECRET =
 MONGODB_URI =
 ```
 # Contact-Management-System-Backend
-# Contact-Management-System-Backend
+
